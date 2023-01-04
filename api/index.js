@@ -45,4 +45,12 @@ app.get('/teams', (ctx) => {
   return ctx.json(teams)
 })
 
+app.get('/teams/:id', (ctx) => {
+  const id = ctx.req.param('id')
+  const team = teams.find(team => team.id === id)
+  return team
+    ? ctx.json(team)
+    : ctx.json({ message: 'Team not found' }, 404)
+})
+
 export default app
