@@ -20,6 +20,6 @@ app.get('/leaderboard', (ctx) => {
   return ctx.json(leaderboard)
 })
 
-app.get('/static/*', serveStatic({ root: './' }))
+app.use('/static/*', serveStatic({ root: './' }))
 
 export default app
