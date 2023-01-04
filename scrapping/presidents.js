@@ -3,6 +3,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 
 const STATIC_PATH = path.join(process.cwd(), './assets/static/presidents')
+const API_URL = 'https://scrapper-js.fmia.workers.dev/static/presidents'
 const RAW_PRESIDENTS = await readFile('./db/rawPresindents.json', 'utf8').then(JSON.parse)
 
 const presidents = await Promise.all(RAW_PRESIDENTS.map(async presidentInfo => {
@@ -17,7 +18,9 @@ const presidents = await Promise.all(RAW_PRESIDENTS.map(async presidentInfo => {
   const data = await responseImageEndpoint.json()
   const [imageInfo] = data
   const { guid: { rendered: image } } = imageInfo
-  const fileExtension = image.split('.').at(-1)
+  const filename = image.split('/').at(-1)
+  const fn = filename.split('.').at(0)
+  const fileExtension = filename.split('.').at(-1)
 
   console.log(`Fetching image for president ${name}`)
 
@@ -29,11 +32,11 @@ const presidents = await Promise.all(RAW_PRESIDENTS.map(async presidentInfo => {
 
   console.log(`Saving image for president ${name}`)
 
-  const imageFyleName = `${id}.${fileExtension}`
-  await writeFile(`${STATIC_PATH}/${imageFyleName}`, buffer)
+  const imageFileName = `${fn}.${fileExtension}`
+  await writeFile(`${STATIC_PATH}/${imageFileName}`, buffer)
 
   console.log(`Image saved for president ${name}`)
-  return { id, name, image, teamId: 0 }
+  return { id, name, image: `${API_URL}/${filename}`, teamId: 0 }
 })
 )
 
