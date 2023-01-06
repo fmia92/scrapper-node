@@ -11,10 +11,15 @@
       "name": "El Barrio",
       "image": "/el-bbarrio.svg",
       "url": "",
-      "president": "Adri Contreras",
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/EL-BARRIO-ADRI-CONTRERAS.png",
+        "teamId": 0
+      },
       "coach": "Juan Arroita",
       "players": [],
-      "channel": "",
+      "channel": null,
       "socialNetworks": [
         "https://www.tiktok.com/@adricontreras4",
         "https://www.instagram.com/elbarrioklk/?hl=es"
@@ -33,7 +38,12 @@
       "name": "Ultimate Móstoles",
       "image": "/ultimate-mostoles.svg",
       "url": "",
-      "president": "DjMaRiiO",
+      "president": {
+        "id": "djmariio",
+        "name": "DjMaRiiO",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/DJMARIIO-ULTIMATE-MOSTOLES.png",
+        "teamId": 0
+      },
       "coach": "",
       "players": [],
       "channel": "https://m.youtube.com/user/DjMaRiiO/videos",
@@ -54,7 +64,6 @@
       "name": "Los Troncos FC",
       "image": "los-troncos-d623efc3.png",
       "url": "",
-      "president": "Perxitaa",
       "coach": "Pol Font",
       "players": [],
       "channel": "https://www.twitch.tv/perxitaa",
@@ -78,7 +87,12 @@
       "name": "1K FC",
       "image": "/1k.svg",
       "url": "",
-      "president": "Iker Casillas",
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/1K-IKER-CASILLAS.png",
+        "teamId": 0
+      },
       "coach": "Julio García Mera",
       "players": [],
       "channel": "https://www.twitch.tv/1k",
@@ -102,7 +116,12 @@
       "name": "Saiyans FC",
       "image": "/saiyans-fc.svg",
       "url": "",
-      "president": "TheGrefg",
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
+        "teamId": 0
+      },
       "coach": "Daniel Romo",
       "players": [],
       "channel": "https://www.twitch.tv/thegrefg",
@@ -123,7 +142,12 @@
       "name": "Kunisports",
       "image": "/kunisports.svg",
       "url": "",
-      "president": "Kun Aguero",
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/KUNSPORTS-KUN-AGUERO.png",
+        "teamId": 0
+      },
       "coach": "Martín Posse",
       "players": [],
       "channel": "https://www.twitch.tv/slakun10",
@@ -144,10 +168,15 @@
       "name": "Jijantes FC",
       "image": "/jijantes-fc.svg",
       "url": "",
-      "president": "Gerard Romero",
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JIJANTES-GERARD-ROMERO.png",
+        "teamId": 0
+      },
       "coach": "Marc Carmona",
       "players": [],
-      "channel": "ttps://www.twitch.tv/gerardromero",
+      "channel": "https://www.twitch.tv/gerardromero",
       "socialNetworks": [
         "https://www.twitch.tv/gerardromero",
         "https://www.instagram.com/jijantesfc/?hl=es",
@@ -168,7 +197,12 @@
       "name": "Porcinos FC",
       "image": "/porcinos-fc.svg",
       "url": "",
-      "president": "Ibai Llanos",
+      "president": {
+        "id": "ibai-llanos",
+        "name": "Ibai Llanos",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/IBAI-LLANOS-PORCINOS-FC.png",
+        "teamId": 0
+      },
       "coach": "Juvenal Edjogo-Owono",
       "players": [],
       "channel": "hhttps://www.twitch.tv/ibai",
@@ -190,7 +224,12 @@
       "name": "Rayo de Barcelona",
       "image": "/rayo-barcelona.svg",
       "url": "",
-      "president": "Spursito",
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/SPURSITO-RAYO-BARCELONA.png",
+        "teamId": 0
+      },
       "coach": "JuanluDBZ",
       "players": [],
       "channel": "https://www.twitch.tv/spursito",
@@ -214,7 +253,12 @@
       "name": "XBUYER TEAM",
       "image": "/xbuyer-team.svg",
       "url": "",
-      "president": "Hnos. Buyer",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
+        "teamId": 0
+      },
       "coach": "Victor González",
       "players": [],
       "channel": "https://www.youtube.com/xbuyer",
@@ -235,7 +279,12 @@
       "name": "Aniquiladores FC",
       "image": "/aniquiladores.svg",
       "url": "",
-      "president": "Juan Guarnizo",
+      "president": {
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JUAN-GUARNIZO-ANIQUILADORES-FC.png",
+        "teamId": 0
+      },
       "coach": "Sergio Verdirame",
       "players": [],
       "channel": "https://www.twitch.tv/juansguarnizo",
@@ -256,7 +305,12 @@
       "name": "PIO FC",
       "image": "/pio.svg",
       "url": "",
-      "president": "Rivers",
+      "president": {
+        "id": "rivers",
+        "name": "Rivers",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/RIVERS-PIO-FC.png",
+        "teamId": 0
+      },
       "coach": "Gerardo Torrado",
       "players": [],
       "channel": "https://www.twitch.tv/rivers_gg",
