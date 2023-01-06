@@ -7,22 +7,25 @@ const teams = await response.json()
 ---
 
 <Layout title="Welcome to Astro.">
-	<header>
-		{
-			teams.map((team) => {
-				return (
-					<div>
-						<h1>{team.name}</h1>
-						<img src={`${IMAGES_URL}${team.image}`} alt={team.name} />
-					</div>
-				)
-			})
-		}
-	</header>
-	<main>
-		<h1 class="text-orange-500 text-4xl">Welcome to Astro.</h1>
-		<img src="https://kingsleague.pro/wp-content/uploads/2022/12/KL_landscape.svg" alt="">
-	</main>
+	<div class="container m-auto">
+		<header class="flex">
+			{
+				teams.map(({id, name, image}) => {
+					return (
+						<div>
+							<a href={`/team/${id}`}>
+								<img src={`${IMAGES_URL}${image}`} alt={name} />
+							</a>
+						</div>
+					)
+				})
+			}
+		</header>
+		<main>
+			<h1 class="text-orange-500 text-4xl">Welcome to Astro.</h1>
+			<img src="https://kingsleague.pro/wp-content/uploads/2022/12/KL_landscape.svg" alt="">
+		</main>
+	</div>
 </Layout>
 
 <style>
