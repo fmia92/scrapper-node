@@ -14,12 +14,23 @@ const teams = await response.json()
 					return (
 						<div>
 							<a href={`/team/${id}`}>
-								<img src={`${IMAGES_URL}${image}`} alt={name} />
+								<img class="aspect-square w-16" src={`${IMAGES_URL}${image}`} alt={name} />
 							</a>
 						</div>
 					)
 				})
 			}
+
+			<nav>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/equipos">Equipos</a></li>
+					<li><a href="/calendario">Calendario</a></li>
+					<li><a href="/estadisticas">Estadisticas</a></li>
+					<li><a href="/contacto">Contacto</a></li>
+					<li><a href="/reglamento">Reglamento</a></li>
+				</ul>
+			</nav>
 		</header>
 		<main>
 			<h1 class="text-orange-500 text-4xl">Welcome to Astro.</h1>
