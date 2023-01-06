@@ -20,8 +20,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
+      - run: npm ci
+      - run: npm test
       - run: |
-          node ./scrapping/leaderboard.js
+          node scrapping/leaderboard.js
           git config user.name bot
           git add .
           git commit -m "[BOT] update scrapper data"
