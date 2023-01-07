@@ -1,7 +1,7 @@
 [{
         "id": "el-barrio",
         "name": "El Barrio",
-        "image": "/el-bbarrio.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/el-bbarrio.svg",
         "url": "",
         "president": "Adri Contreras",
         "presidentId": "adri-contreras",
@@ -16,7 +16,7 @@
     {
         "id": "ultimate-mostoles",
         "name": "Ultimate Móstoles",
-        "image": "/ultimate-mostoles.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/ultimate-mostoles.svg",
         "url": "",
         "president": "DjMaRiiO",
         "presidentId": "djmariio",
@@ -28,7 +28,7 @@
     {
         "id": "los-troncos-fc",
         "name": "Los Troncos FC",
-        "image": "/los-troncos.png",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
         "url": "",
         "president": "Perxitaa",
         "coach": "Pol Font",
@@ -44,7 +44,7 @@
     {
         "id": "1k",
         "name": "1K FC",
-        "image": "/1k.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/1k.svg",
         "url": "",
         "president": "Iker Casillas",
         "presidentId": "iker-casillas",
@@ -61,7 +61,7 @@
     {
         "id": "saiyans-fc/",
         "name": "Saiyans FC",
-        "image": "/saiyans-fc.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
         "url": "",
         "president": "TheGrefg",
         "presidentId": "thegrefg",
@@ -75,7 +75,7 @@
     {
         "id": "kunisports",
         "name": "Kunisports",
-        "image": "/kunisports.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/kunisports.svg",
         "url": "",
         "president": "Kun Aguero",
         "presidentId": "kun-aguero",
@@ -89,7 +89,7 @@
     {
         "id": "jijantes-fc",
         "name": "Jijantes FC",
-        "image": "/jijantes-fc.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/jijantes-fc.svg",
         "url": "",
         "president": "Gerard Romero",
         "presidentId": "gerard-romero",
@@ -106,7 +106,7 @@
     {
         "id": "porcinos-fc",
         "name": "Porcinos FC",
-        "image": "/porcinos-fc.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/porcinos-fc.svg",
         "url": "",
         "president": "Ibai Llanos",
         "presidentId": "ibai-llanos",
@@ -121,7 +121,7 @@
     {
         "id": "rayo-barcelona",
         "name": "Rayo de Barcelona",
-        "image": "/rayo-barcelona.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/rayo-barcelona.svg",
         "url": "",
         "president": "Spursito",
         "presidentId": "spursito",
@@ -138,7 +138,7 @@
     {
         "id": "xbuyer-team",
         "name": "XBUYER TEAM",
-        "image": "/xbuyer-team.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
         "url": "",
         "president": "Hnos. Buyer",
         "presidentId": "hnos-buyer",
@@ -152,7 +152,7 @@
     {
         "id": "aniquiladores-fc",
         "name": "Aniquiladores FC",
-        "image": "/aniquiladores.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/aniquiladores.svg",
         "url": "",
         "president": "Juan Guarnizo",
         "presidentId": "juan-guarnizo",
@@ -166,7 +166,7 @@
     {
         "id": "pio-fc",
         "name": "PIO FC",
-        "image": "/pio.svg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/logos/pio.svg",
         "url": "",
         "president": "Rivers",
         "presidentId": "rivers",
