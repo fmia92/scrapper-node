@@ -22,7 +22,7 @@ jobs:
           node-version: 18
       - run: npm ci
       - run: |
-          node scrapping/leaderboard.js
+          npm run scrape
           git config user.name bot
           git add .
           git commit -m "[BOT] update scrapper data"
