@@ -1,4 +1,4 @@
-import { cleanText, TEAMS, scrape, writeDBFile, URLS } from './utils.js'
+import { cleanText, TEAMS } from './utils.js'
 
 const MVP_SELECTORS = {
   team: { selector: 2, typeOf: 'string' },
@@ -7,8 +7,7 @@ const MVP_SELECTORS = {
   mvps: { selector: 5, typeOf: 'number' }
 }
 
-export async function getMvpList () {
-  const $ = await scrape(URLS.mvp)
+export async function getMvpList ($) {
   const $rows = $('table tbody tr')
 
   const getImageFromTeam = ({ name }) => {
@@ -27,8 +26,6 @@ export async function getMvpList () {
       return [key, value]
     })
 
-    console.log({ mvpEntries })
-
     const { team: teamName, ...mvpData } = Object.fromEntries(mvpEntries)
     const image = getImageFromTeam({ name: teamName })
 
@@ -42,6 +39,3 @@ export async function getMvpList () {
 
   return mvpList
 }
-
-const mvpList = await getMvpList()
-writeDBFile('mvp.json', mvpList)

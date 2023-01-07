@@ -1,4 +1,4 @@
-import { writeDBFile, TEAMS, PRESIDENTS, cleanText, scrape, URLS } from './utils.js'
+import { TEAMS, PRESIDENTS, cleanText } from './utils.js'
 
 const LEADERBOARD_SELECTORS = {
   team: { selector: 2, type: 'string' },
@@ -10,8 +10,7 @@ const LEADERBOARD_SELECTORS = {
   cardsRed: { selector: 8, type: 'number' }
 }
 
-export async function getLeaderboard () {
-  const $ = await scrape(URLS.leaderboard)
+export async function getLeaderboard ($) {
   const $rows = $('table tbody tr')
 
   const getTeamFromName = ({ name }) => {
@@ -45,7 +44,3 @@ export async function getLeaderboard () {
 
   return leaderboard
 }
-
-const leaderboard = await getLeaderboard()
-
-writeDBFile('leaderboard.json', leaderboard)

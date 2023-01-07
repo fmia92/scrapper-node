@@ -1,11 +1,20 @@
 import { writeFile, readFile } from 'node:fs/promises'
 import path from 'node:path'
 import * as cheerio from 'cheerio'
+import { getLeaderboard } from './leaderboard.js'
+import { getMvpList } from './mvp.js'
+import { log } from './log.js'
 
 const DB_PATH = path.join(process.cwd(), './db')
-export const URLS = {
-  leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/',
-  mvp: 'https://kingsleague.pro/estadisticas/mvp/'
+export const SCRAPPINGS = {
+  leaderboard: {
+    url: 'https://kingsleague.pro/estadisticas/clasificacion/',
+    scraper: getLeaderboard
+  },
+  mvp: {
+    url: 'https://kingsleague.pro/estadisticas/mvp/',
+    scraper: getMvpList
+  }
 }
 
 async function readDBFile (filename) {
@@ -24,6 +33,27 @@ export async function scrape (url) {
   const res = await fetch(url)
   const html = await res.text()
   return cheerio.load(html)
+}
+
+export async function scrapeAndSave (page) {
+  const start = performance.now()
+  try {
+    const { scraper, url } = SCRAPPINGS[page]
+    log.info(`Scraping [${page}] list...`)
+    const $ = await scrape(url)
+    const content = await scraper($)
+    log.success(`[${page}] list scraped!`)
+    log.info(`Writing [${page}] list to file...`)
+    writeDBFile(`${page}.json`, content)
+    log.success(`[${page}] list written to file!`)
+  } catch (error) {
+    log.error(`Error scraping [${page}] list!`)
+    log.error(error)
+  } finally {
+    const end = performance.now()
+    const time = (end - start) / 1000
+    log.info(`[${page}] list scraped in ${time} seconds`)
+  }
 }
 
 export async function writeDBFile (filename, data) {
