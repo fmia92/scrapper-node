@@ -4,6 +4,7 @@ import * as cheerio from 'cheerio'
 import { getLeaderboard } from './leaderboard.js'
 import { getMvpList } from './mvp.js'
 import { log } from './log.js'
+import { getCoaches } from './coaches.js'
 
 const DB_PATH = path.join(process.cwd(), './db')
 export const SCRAPPINGS = {
@@ -14,6 +15,10 @@ export const SCRAPPINGS = {
   mvp: {
     url: 'https://kingsleague.pro/estadisticas/mvp/',
     scraper: getMvpList
+  },
+  coaches: {
+    url: 'https://es.besoccer.com/competicion/info/kings-league/2023',
+    scraper: getCoaches
   }
 }
 
