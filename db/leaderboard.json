@@ -1,37 +1,10 @@
 [
   {
-    "victories": 1,
+    "victories": 2,
     "defeats": 0,
-    "goalsScored": 5,
-    "goalConceded": 0,
-    "cardsYellow": 0,
-    "cardsRed": 0,
-    "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/el-bbarrio.svg",
-      "url": "",
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/EL-BARRIO-ADRI-CONTRERAS.png",
-        "teamId": 0
-      },
-      "coach": "Juan Arroita",
-      "players": [],
-      "channel": null,
-      "socialNetworks": [
-        "https://www.tiktok.com/@adricontreras4",
-        "https://www.instagram.com/elbarrioklk/?hl=es"
-      ]
-    }
-  },
-  {
-    "victories": 1,
-    "defeats": 0,
-    "goalsScored": 5,
-    "goalConceded": 1,
-    "cardsYellow": 0,
+    "goalsScored": 8,
+    "goalConceded": 3,
+    "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
       "id": "ultimate-mostoles",
@@ -53,33 +26,10 @@
     }
   },
   {
-    "victories": 1,
+    "victories": 2,
     "defeats": 0,
-    "goalsScored": 5,
-    "goalConceded": 3,
-    "cardsYellow": 1,
-    "cardsRed": 0,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "coach": "Pol Font",
-      "players": [],
-      "channel": "https://www.twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ]
-    }
-  },
-  {
-    "victories": 1,
-    "defeats": 0,
-    "goalsScored": 4,
-    "goalConceded": 2,
+    "goalsScored": 7,
+    "goalConceded": 4,
     "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
@@ -105,11 +55,11 @@
     }
   },
   {
-    "victories": 1,
+    "victories": 2,
     "defeats": 0,
-    "goalsScored": 4,
-    "goalConceded": 2,
-    "cardsYellow": 1,
+    "goalsScored": 5,
+    "goalConceded": 3,
+    "cardsYellow": 3,
     "cardsRed": 0,
     "team": {
       "id": "saiyans-fc/",
@@ -131,9 +81,9 @@
     }
   },
   {
-    "victories": 1,
+    "victories": 2,
     "defeats": 0,
-    "goalsScored": 2,
+    "goalsScored": 3,
     "goalConceded": 1,
     "cardsYellow": 1,
     "cardsRed": 0,
@@ -157,39 +107,60 @@
     }
   },
   {
-    "victories": 0,
+    "victories": 1,
     "defeats": 1,
-    "goalsScored": 1,
-    "goalConceded": 2,
-    "cardsYellow": 0,
+    "goalsScored": 7,
+    "goalConceded": 3,
+    "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
-      "id": "jijantes-fc",
-      "name": "Jijantes FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/jijantes-fc.svg",
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/el-bbarrio.svg",
       "url": "",
       "president": {
-        "id": "gerard-romero",
-        "name": "Gerard Romero",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JIJANTES-GERARD-ROMERO.png",
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/EL-BARRIO-ADRI-CONTRERAS.png",
         "teamId": 0
       },
-      "coach": "Marc Carmona",
+      "coach": "Juan Arroita",
       "players": [],
-      "channel": "https://www.twitch.tv/gerardromero",
+      "channel": null,
       "socialNetworks": [
-        "https://www.twitch.tv/gerardromero",
-        "https://www.instagram.com/jijantesfc/?hl=es",
-        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
-        "https://www.tiktok.com/@jijantesfutbolclub"
+        "https://www.tiktok.com/@adricontreras4",
+        "https://www.instagram.com/elbarrioklk/?hl=es"
       ]
     }
   },
   {
-    "victories": 0,
+    "victories": 1,
     "defeats": 1,
-    "goalsScored": 2,
-    "goalConceded": 4,
+    "goalsScored": 8,
+    "goalConceded": 8,
+    "cardsYellow": 1,
+    "cardsRed": 0,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "coach": "Pol Font",
+      "players": [],
+      "channel": "https://www.twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    }
+  },
+  {
+    "victories": 1,
+    "defeats": 1,
+    "goalsScored": 7,
+    "goalConceded": 7,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -213,10 +184,10 @@
     }
   },
   {
-    "victories": 0,
+    "victories": 1,
     "defeats": 1,
-    "goalsScored": 2,
-    "goalConceded": 4,
+    "goalsScored": 7,
+    "goalConceded": 7,
     "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
@@ -243,9 +214,38 @@
   },
   {
     "victories": 0,
-    "defeats": 1,
-    "goalsScored": 2,
-    "goalConceded": 5,
+    "defeats": 2,
+    "goalsScored": 4,
+    "goalConceded": 7,
+    "cardsYellow": 2,
+    "cardsRed": 0,
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/jijantes-fc.svg",
+      "url": "",
+      "president": {
+        "id": "gerard-romero",
+        "name": "Gerard Romero",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JIJANTES-GERARD-ROMERO.png",
+        "teamId": 0
+      },
+      "coach": "Marc Carmona",
+      "players": [],
+      "channel": "https://www.twitch.tv/gerardromero",
+      "socialNetworks": [
+        "https://www.twitch.tv/gerardromero",
+        "https://www.instagram.com/jijantesfc/?hl=es",
+        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
+        "https://www.tiktok.com/@jijantesfutbolclub"
+      ]
+    }
+  },
+  {
+    "victories": 0,
+    "defeats": 2,
+    "goalsScored": 3,
+    "goalConceded": 6,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -269,9 +269,9 @@
   },
   {
     "victories": 0,
-    "defeats": 1,
-    "goalsScored": 1,
-    "goalConceded": 5,
+    "defeats": 2,
+    "goalsScored": 3,
+    "goalConceded": 8,
     "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
@@ -295,10 +295,10 @@
   },
   {
     "victories": 0,
-    "defeats": 1,
-    "goalsScored": 0,
-    "goalConceded": 5,
-    "cardsYellow": 1,
+    "defeats": 2,
+    "goalsScored": 1,
+    "goalConceded": 6,
+    "cardsYellow": 3,
     "cardsRed": 0,
     "team": {
       "id": "pio-fc",
