@@ -1,8 +1,8 @@
 [
   {
-    "victories": 3,
+    "victories": 4,
     "defeats": 1,
-    "goalsScored": 11,
+    "goalsScored": 12,
     "goalConceded": 5,
     "cardsYellow": 6,
     "cardsRed": 1,
@@ -26,36 +26,10 @@
     }
   },
   {
-    "victories": 3,
+    "victories": 4,
     "defeats": 1,
-    "goalsScored": 14,
-    "goalConceded": 9,
-    "cardsYellow": 1,
-    "cardsRed": 0,
-    "team": {
-      "id": "ultimate-mostoles",
-      "name": "Ultimate Móstoles",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/ultimate-mostoles.svg",
-      "url": "",
-      "president": {
-        "id": "djmariio",
-        "name": "DjMaRiiO",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/DJMARIIO-ULTIMATE-MOSTOLES.png",
-        "teamId": 0
-      },
-      "coach": "",
-      "players": [],
-      "channel": "https://m.youtube.com/user/DjMaRiiO/videos",
-      "socialNetworks": [
-        "https://m.youtube.com/user/DjMaRiiO/videos"
-      ]
-    }
-  },
-  {
-    "victories": 3,
-    "defeats": 1,
-    "goalsScored": 14,
-    "goalConceded": 10,
+    "goalsScored": 18,
+    "goalConceded": 12,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -79,10 +53,62 @@
     }
   },
   {
-    "victories": 3,
+    "victories": 4,
     "defeats": 1,
-    "goalsScored": 14,
+    "goalsScored": 10,
+    "goalConceded": 6,
+    "cardsYellow": 6,
+    "cardsRed": 0,
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/kunisports.svg",
+      "url": "",
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/KUNSPORTS-KUN-AGUERO.png",
+        "teamId": 0
+      },
+      "coach": "Martín Posse",
+      "players": [],
+      "channel": "https://www.twitch.tv/slakun10",
+      "socialNetworks": [
+        "https://www.twitch.tv/slakun10"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 2,
+    "goalsScored": 15,
     "goalConceded": 12,
+    "cardsYellow": 1,
+    "cardsRed": 0,
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/ultimate-mostoles.svg",
+      "url": "",
+      "president": {
+        "id": "djmariio",
+        "name": "DjMaRiiO",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/DJMARIIO-ULTIMATE-MOSTOLES.png",
+        "teamId": 0
+      },
+      "coach": "",
+      "players": [],
+      "channel": "https://m.youtube.com/user/DjMaRiiO/videos",
+      "socialNetworks": [
+        "https://m.youtube.com/user/DjMaRiiO/videos"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 2,
+    "goalsScored": 16,
+    "goalConceded": 15,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -109,35 +135,61 @@
   },
   {
     "victories": 3,
-    "defeats": 1,
-    "goalsScored": 7,
-    "goalConceded": 5,
-    "cardsYellow": 6,
+    "defeats": 2,
+    "goalsScored": 15,
+    "goalConceded": 15,
+    "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/kunisports.svg",
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/aniquiladores.svg",
       "url": "",
       "president": {
-        "id": "kun-aguero",
-        "name": "Kun Agüero",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/KUNSPORTS-KUN-AGUERO.png",
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JUAN-GUARNIZO-ANIQUILADORES-FC.png",
         "teamId": 0
       },
-      "coach": "Martín Posse",
+      "coach": "Sergio Verdirame",
       "players": [],
-      "channel": "https://www.twitch.tv/slakun10",
+      "channel": "https://www.twitch.tv/juansguarnizo",
       "socialNetworks": [
-        "https://www.twitch.tv/slakun10"
+        "https://www.twitch.tv/juansguarnizo"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 2,
+    "goalsScored": 11,
+    "goalConceded": 12,
+    "cardsYellow": 3,
+    "cardsRed": 0,
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
+      "url": "",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
+        "teamId": 0
+      },
+      "coach": "Victor González",
+      "players": [],
+      "channel": "https://www.youtube.com/xbuyer",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
       ]
     }
   },
   {
     "victories": 2,
-    "defeats": 2,
+    "defeats": 3,
     "goalsScored": 13,
-    "goalConceded": 9,
+    "goalConceded": 10,
     "cardsYellow": 2,
     "cardsRed": 0,
     "team": {
@@ -162,84 +214,9 @@
   },
   {
     "victories": 2,
-    "defeats": 2,
-    "goalsScored": 8,
-    "goalConceded": 10,
-    "cardsYellow": 1,
-    "cardsRed": 0,
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/aniquiladores.svg",
-      "url": "",
-      "president": {
-        "id": "juan-guarnizo",
-        "name": "Juan Guarnizo",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JUAN-GUARNIZO-ANIQUILADORES-FC.png",
-        "teamId": 0
-      },
-      "coach": "Sergio Verdirame",
-      "players": [],
-      "channel": "https://www.twitch.tv/juansguarnizo",
-      "socialNetworks": [
-        "https://www.twitch.tv/juansguarnizo"
-      ]
-    }
-  },
-  {
-    "victories": 2,
-    "defeats": 2,
-    "goalsScored": 8,
-    "goalConceded": 10,
-    "cardsYellow": 3,
-    "cardsRed": 0,
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
-      "url": "",
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
-        "teamId": 0
-      },
-      "coach": "Victor González",
-      "players": [],
-      "channel": "https://www.youtube.com/xbuyer",
-      "socialNetworks": [
-        "https://www.youtube.com/xbuyer"
-      ]
-    }
-  },
-  {
-    "victories": 2,
-    "defeats": 2,
-    "goalsScored": 12,
-    "goalConceded": 15,
-    "cardsYellow": 2,
-    "cardsRed": 1,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "coach": "Pol Font",
-      "players": [],
-      "channel": "https://www.twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ]
-    }
-  },
-  {
-    "victories": 1,
     "defeats": 3,
-    "goalsScored": 10,
-    "goalConceded": 14,
+    "goalsScored": 15,
+    "goalConceded": 18,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -265,10 +242,60 @@
     }
   },
   {
+    "victories": 2,
+    "defeats": 3,
+    "goalsScored": 17,
+    "goalConceded": 22,
+    "cardsYellow": 2,
+    "cardsRed": 1,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "coach": "Pol Font",
+      "players": [],
+      "channel": "https://www.twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    }
+  },
+  {
     "victories": 0,
-    "defeats": 4,
+    "defeats": 5,
     "goalsScored": 9,
-    "goalConceded": 15,
+    "goalConceded": 16,
+    "cardsYellow": 5,
+    "cardsRed": 0,
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/pio.svg",
+      "url": "",
+      "president": {
+        "id": "rivers",
+        "name": "Rivers",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/RIVERS-PIO-FC.png",
+        "teamId": 0
+      },
+      "coach": "Gerardo Torrado",
+      "players": [],
+      "channel": "https://www.twitch.tv/rivers_gg",
+      "socialNetworks": [
+        "https://www.twitch.tv/rivers_gg",
+        "https://twitter.com/PIO_FC"
+      ]
+    }
+  },
+  {
+    "victories": 0,
+    "defeats": 5,
+    "goalsScored": 11,
+    "goalConceded": 19,
     "cardsYellow": 3,
     "cardsRed": 0,
     "team": {
@@ -290,33 +317,6 @@
         "https://www.instagram.com/jijantesfc/?hl=es",
         "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
         "https://www.tiktok.com/@jijantesfutbolclub"
-      ]
-    }
-  },
-  {
-    "victories": 0,
-    "defeats": 4,
-    "goalsScored": 5,
-    "goalConceded": 11,
-    "cardsYellow": 5,
-    "cardsRed": 0,
-    "team": {
-      "id": "pio-fc",
-      "name": "PIO FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/pio.svg",
-      "url": "",
-      "president": {
-        "id": "rivers",
-        "name": "Rivers",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/RIVERS-PIO-FC.png",
-        "teamId": 0
-      },
-      "coach": "Gerardo Torrado",
-      "players": [],
-      "channel": "https://www.twitch.tv/rivers_gg",
-      "socialNetworks": [
-        "https://www.twitch.tv/rivers_gg",
-        "https://twitter.com/PIO_FC"
       ]
     }
   }
