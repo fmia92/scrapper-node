@@ -4,7 +4,7 @@
     "defeats": 1,
     "goalsScored": 14,
     "goalConceded": 7,
-    "cardsYellow": 6,
+    "cardsYellow": 3,
     "cardsRed": 1,
     "team": {
       "id": "saiyans-fc/",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "victories": 0,
+    "victories": 5,
     "defeats": 1,
     "goalsScored": 22,
     "goalConceded": 15,
@@ -53,11 +53,11 @@
     }
   },
   {
-    "victories": 4,
+    "victories": 5,
     "defeats": 1,
     "goalsScored": 13,
     "goalConceded": 8,
-    "cardsYellow": 6,
+    "cardsYellow": 2,
     "cardsRed": 0,
     "team": {
       "id": "kunisports",
@@ -79,30 +79,7 @@
     }
   },
   {
-    "victories": 1,
-    "defeats": 3,
-    "goalsScored": 15,
-    "goalConceded": 25,
-    "cardsYellow": 2,
-    "cardsRed": 1,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "coach": "Pol Font",
-      "players": [],
-      "channel": "https://www.twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ]
-    }
-  },
-  {
-    "victories": 0,
+    "victories": 4,
     "defeats": 2,
     "goalsScored": 18,
     "goalConceded": 14,
@@ -132,7 +109,7 @@
     "defeats": 3,
     "goalsScored": 18,
     "goalConceded": 17,
-    "cardsYellow": 1,
+    "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
       "id": "1k",
@@ -159,8 +136,8 @@
   {
     "victories": 3,
     "defeats": 3,
-    "goalsScored": 14,
-    "goalConceded": 15,
+    "goalsScored": 17,
+    "goalConceded": 18,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -209,11 +186,34 @@
     }
   },
   {
+    "victories": 3,
+    "defeats": 3,
+    "goalsScored": 20,
+    "goalConceded": 25,
+    "cardsYellow": 2,
+    "cardsRed": 1,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "coach": "Pol Font",
+      "players": [],
+      "channel": "https://www.twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    }
+  },
+  {
     "victories": 2,
     "defeats": 4,
     "goalsScored": 16,
     "goalConceded": 13,
-    "cardsYellow": 2,
+    "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
       "id": "el-barrio",
@@ -237,10 +237,10 @@
   },
   {
     "victories": 2,
-    "defeats": -2,
-    "goalsScored": 15,
+    "defeats": 4,
+    "goalsScored": 17,
     "goalConceded": 21,
-    "cardsYellow": 1,
+    "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
       "id": "rayo-barcelona",
@@ -269,7 +269,7 @@
     "defeats": 5,
     "goalsScored": 14,
     "goalConceded": 16,
-    "cardsYellow": 5,
+    "cardsYellow": 4,
     "cardsRed": 0,
     "team": {
       "id": "pio-fc",
@@ -293,10 +293,10 @@
   },
   {
     "victories": 0,
-    "defeats": 2,
+    "defeats": 6,
     "goalsScored": 11,
     "goalConceded": 24,
-    "cardsYellow": 3,
+    "cardsYellow": 2,
     "cardsRed": 0,
     "team": {
       "id": "jijantes-fc",
