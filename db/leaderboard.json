@@ -26,10 +26,10 @@
     }
   },
   {
-    "victories": 5,
+    "victories": 6,
     "defeats": 1,
-    "goalsScored": 22,
-    "goalConceded": 15,
+    "goalsScored": 27,
+    "goalConceded": 16,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -135,9 +135,9 @@
   },
   {
     "victories": 3,
-    "defeats": 3,
-    "goalsScored": 17,
-    "goalConceded": 18,
+    "defeats": 4,
+    "goalsScored": 19,
+    "goalConceded": 21,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -236,10 +236,10 @@
     }
   },
   {
-    "victories": 2,
+    "victories": 3,
     "defeats": 4,
-    "goalsScored": 17,
-    "goalConceded": 21,
+    "goalsScored": 20,
+    "goalConceded": 23,
     "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
