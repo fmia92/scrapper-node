@@ -1,35 +1,9 @@
 [
   {
-    "victories": 5,
-    "defeats": 1,
-    "goalsScored": 14,
-    "goalConceded": 7,
-    "cardsYellow": 3,
-    "cardsRed": 1,
-    "team": {
-      "id": "saiyans-fc/",
-      "name": "Saiyans FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
-      "url": "",
-      "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
-        "teamId": 0
-      },
-      "coach": "Daniel Romo",
-      "players": [],
-      "channel": "https://www.twitch.tv/thegrefg",
-      "socialNetworks": [
-        "https://www.twitch.tv/thegrefg"
-      ]
-    }
-  },
-  {
     "victories": 6,
     "defeats": 1,
     "goalsScored": 27,
-    "goalConceded": 16,
+    "goalConceded": 17,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -53,36 +27,36 @@
     }
   },
   {
-    "victories": 5,
+    "victories": 6,
     "defeats": 1,
-    "goalsScored": 13,
-    "goalConceded": 8,
-    "cardsYellow": 2,
-    "cardsRed": 0,
+    "goalsScored": 15,
+    "goalConceded": 7,
+    "cardsYellow": 3,
+    "cardsRed": 1,
     "team": {
-      "id": "kunisports",
-      "name": "Kunisports",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/kunisports.svg",
+      "id": "saiyans-fc/",
+      "name": "Saiyans FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
       "url": "",
       "president": {
-        "id": "kun-aguero",
-        "name": "Kun Agüero",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/KUNSPORTS-KUN-AGUERO.png",
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
         "teamId": 0
       },
-      "coach": "Martín Posse",
+      "coach": "Daniel Romo",
       "players": [],
-      "channel": "https://www.twitch.tv/slakun10",
+      "channel": "https://www.twitch.tv/thegrefg",
       "socialNetworks": [
-        "https://www.twitch.tv/slakun10"
+        "https://www.twitch.tv/thegrefg"
       ]
     }
   },
   {
-    "victories": 4,
+    "victories": 5,
     "defeats": 2,
-    "goalsScored": 18,
-    "goalConceded": 14,
+    "goalsScored": 22,
+    "goalConceded": 17,
     "cardsYellow": 1,
     "cardsRed": 0,
     "team": {
@@ -105,10 +79,63 @@
     }
   },
   {
+    "victories": 5,
+    "defeats": 2,
+    "goalsScored": 15,
+    "goalConceded": 14,
+    "cardsYellow": 2,
+    "cardsRed": 0,
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/kunisports.svg",
+      "url": "",
+      "president": {
+        "id": "kun-aguero",
+        "name": "Kun Agüero",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/KUNSPORTS-KUN-AGUERO.png",
+        "teamId": 0
+      },
+      "coach": "Martín Posse",
+      "players": [],
+      "channel": "https://www.twitch.tv/slakun10",
+      "socialNetworks": [
+        "https://www.twitch.tv/slakun10"
+      ]
+    }
+  },
+  {
     "victories": 3,
-    "defeats": 3,
-    "goalsScored": 18,
-    "goalConceded": 17,
+    "defeats": 4,
+    "goalsScored": 22,
+    "goalConceded": 15,
+    "cardsYellow": 1,
+    "cardsRed": 0,
+    "team": {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/el-bbarrio.svg",
+      "url": "",
+      "president": {
+        "id": "adri-contreras",
+        "name": "Adri Contreras",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/EL-BARRIO-ADRI-CONTRERAS.png",
+        "teamId": 0
+      },
+      "coach": "Juan Arroita",
+      "players": [],
+      "channel": null,
+      "socialNetworks": [
+        "https://www.tiktok.com/@adricontreras4",
+        "https://www.instagram.com/elbarrioklk/?hl=es"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 4,
+    "goalsScored": 20,
+    "goalConceded": 22,
     "cardsYellow": 0,
     "cardsRed": 0,
     "team": {
@@ -161,82 +188,6 @@
   },
   {
     "victories": 3,
-    "defeats": 3,
-    "goalsScored": 14,
-    "goalConceded": 16,
-    "cardsYellow": 3,
-    "cardsRed": 0,
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
-      "url": "",
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
-        "teamId": 0
-      },
-      "coach": "Victor González",
-      "players": [],
-      "channel": "https://www.youtube.com/xbuyer",
-      "socialNetworks": [
-        "https://www.youtube.com/xbuyer"
-      ]
-    }
-  },
-  {
-    "victories": 3,
-    "defeats": 3,
-    "goalsScored": 20,
-    "goalConceded": 25,
-    "cardsYellow": 2,
-    "cardsRed": 1,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "coach": "Pol Font",
-      "players": [],
-      "channel": "https://www.twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ]
-    }
-  },
-  {
-    "victories": 2,
-    "defeats": 4,
-    "goalsScored": 16,
-    "goalConceded": 13,
-    "cardsYellow": 1,
-    "cardsRed": 0,
-    "team": {
-      "id": "el-barrio",
-      "name": "El Barrio",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/el-bbarrio.svg",
-      "url": "",
-      "president": {
-        "id": "adri-contreras",
-        "name": "Adri Contreras",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/EL-BARRIO-ADRI-CONTRERAS.png",
-        "teamId": 0
-      },
-      "coach": "Juan Arroita",
-      "players": [],
-      "channel": null,
-      "socialNetworks": [
-        "https://www.tiktok.com/@adricontreras4",
-        "https://www.instagram.com/elbarrioklk/?hl=es"
-      ]
-    }
-  },
-  {
-    "victories": 3,
     "defeats": 4,
     "goalsScored": 20,
     "goalConceded": 23,
@@ -265,10 +216,59 @@
     }
   },
   {
-    "victories": 1,
+    "victories": 3,
+    "defeats": 4,
+    "goalsScored": 16,
+    "goalConceded": 21,
+    "cardsYellow": 3,
+    "cardsRed": 0,
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
+      "url": "",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
+        "teamId": 0
+      },
+      "coach": "Victor González",
+      "players": [],
+      "channel": "https://www.youtube.com/xbuyer",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 4,
+    "goalsScored": 20,
+    "goalConceded": 26,
+    "cardsYellow": 2,
+    "cardsRed": 1,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "coach": "Pol Font",
+      "players": [],
+      "channel": "https://www.twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    }
+  },
+  {
+    "victories": 2,
     "defeats": 5,
-    "goalsScored": 14,
-    "goalConceded": 16,
+    "goalsScored": 19,
+    "goalConceded": 18,
     "cardsYellow": 4,
     "cardsRed": 0,
     "team": {
@@ -293,9 +293,9 @@
   },
   {
     "victories": 0,
-    "defeats": 6,
-    "goalsScored": 11,
-    "goalConceded": 24,
+    "defeats": 7,
+    "goalsScored": 14,
+    "goalConceded": 28,
     "cardsYellow": 2,
     "cardsRed": 0,
     "team": {
