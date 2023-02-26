@@ -1,7 +1,7 @@
 [
   {
     "victories": 6,
-    "defeats": 1,
+    "defeats": 2,
     "goalsScored": 27,
     "goalConceded": 17,
     "cardsYellow": 10,
@@ -28,10 +28,10 @@
   },
   {
     "victories": 6,
-    "defeats": 1,
-    "goalsScored": 15,
-    "goalConceded": 7,
-    "cardsYellow": 8,
+    "defeats": 2,
+    "goalsScored": 16,
+    "goalConceded": 10,
+    "cardsYellow": 6,
     "cardsRed": null,
     "team": {
       "id": "saiyans-fc/",
@@ -53,11 +53,11 @@
     }
   },
   {
-    "victories": 5,
+    "victories": 6,
     "defeats": 2,
-    "goalsScored": 22,
-    "goalConceded": 17,
-    "cardsYellow": 5,
+    "goalsScored": 24,
+    "goalConceded": 18,
+    "cardsYellow": 6,
     "cardsRed": null,
     "team": {
       "id": "ultimate-mostoles",
@@ -79,11 +79,11 @@
     }
   },
   {
-    "victories": 5,
+    "victories": 6,
     "defeats": 2,
-    "goalsScored": 15,
-    "goalConceded": 14,
-    "cardsYellow": 1,
+    "goalsScored": 18,
+    "goalConceded": 15,
+    "cardsYellow": 3,
     "cardsRed": null,
     "team": {
       "id": "kunisports",
@@ -105,11 +105,11 @@
     }
   },
   {
-    "victories": 3,
+    "victories": 4,
     "defeats": 4,
-    "goalsScored": 22,
-    "goalConceded": 15,
-    "cardsYellow": 7,
+    "goalsScored": 26,
+    "goalConceded": 17,
+    "cardsYellow": 9,
     "cardsRed": null,
     "team": {
       "id": "el-barrio",
@@ -132,40 +132,11 @@
     }
   },
   {
-    "victories": 3,
+    "victories": 4,
     "defeats": 4,
-    "goalsScored": 20,
-    "goalConceded": 22,
-    "cardsYellow": -2,
-    "cardsRed": null,
-    "team": {
-      "id": "1k",
-      "name": "1K FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/1k.svg",
-      "url": "",
-      "president": {
-        "id": "iker-casillas",
-        "name": "Iker Casillas",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/1K-IKER-CASILLAS.png",
-        "teamId": 0
-      },
-      "coach": "Julio García Mera",
-      "players": [],
-      "channel": "https://www.twitch.tv/1k",
-      "socialNetworks": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ]
-    }
-  },
-  {
-    "victories": 3,
-    "defeats": 4,
-    "goalsScored": 19,
-    "goalConceded": 21,
-    "cardsYellow": -2,
+    "goalsScored": 23,
+    "goalConceded": 23,
+    "cardsYellow": 0,
     "cardsRed": null,
     "team": {
       "id": "aniquiladores-fc",
@@ -187,66 +158,11 @@
     }
   },
   {
-    "victories": 3,
+    "victories": 4,
     "defeats": 4,
-    "goalsScored": 20,
-    "goalConceded": 23,
-    "cardsYellow": -3,
-    "cardsRed": null,
-    "team": {
-      "id": "rayo-barcelona",
-      "name": "Rayo de Barcelona",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/rayo-barcelona.svg",
-      "url": "",
-      "president": {
-        "id": "spursito",
-        "name": "Spursito",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/SPURSITO-RAYO-BARCELONA.png",
-        "teamId": 0
-      },
-      "coach": "JuanluDBZ",
-      "players": [],
-      "channel": "https://www.twitch.tv/spursito",
-      "socialNetworks": [
-        "https://www.twitch.tv/spursito",
-        "https://www.instagram.com/rayodebarcelona/?hl=es",
-        "https://twitter.com/RayodeBarcelona",
-        "https://www.tiktok.com/@rayodebarcelona"
-      ]
-    }
-  },
-  {
-    "victories": 3,
-    "defeats": 4,
-    "goalsScored": 16,
-    "goalConceded": 21,
+    "goalsScored": 25,
+    "goalConceded": 30,
     "cardsYellow": -5,
-    "cardsRed": null,
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
-      "url": "",
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
-        "teamId": 0
-      },
-      "coach": "Victor González",
-      "players": [],
-      "channel": "https://www.youtube.com/xbuyer",
-      "socialNetworks": [
-        "https://www.youtube.com/xbuyer"
-      ]
-    }
-  },
-  {
-    "victories": 3,
-    "defeats": 4,
-    "goalsScored": 20,
-    "goalConceded": 26,
-    "cardsYellow": -6,
     "cardsRed": null,
     "team": {
       "id": "los-troncos-fc",
@@ -265,7 +181,7 @@
     }
   },
   {
-    "victories": 2,
+    "victories": 3,
     "defeats": 5,
     "goalsScored": 19,
     "goalConceded": 18,
@@ -292,11 +208,95 @@
     }
   },
   {
+    "victories": 3,
+    "defeats": 5,
+    "goalsScored": 24,
+    "goalConceded": 27,
+    "cardsYellow": -3,
+    "cardsRed": null,
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/1k.svg",
+      "url": "",
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/1K-IKER-CASILLAS.png",
+        "teamId": 0
+      },
+      "coach": "Julio García Mera",
+      "players": [],
+      "channel": "https://www.twitch.tv/1k",
+      "socialNetworks": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 5,
+    "goalsScored": 22,
+    "goalConceded": 27,
+    "cardsYellow": -5,
+    "cardsRed": null,
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/rayo-barcelona.svg",
+      "url": "",
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/SPURSITO-RAYO-BARCELONA.png",
+        "teamId": 0
+      },
+      "coach": "JuanluDBZ",
+      "players": [],
+      "channel": "https://www.twitch.tv/spursito",
+      "socialNetworks": [
+        "https://www.twitch.tv/spursito",
+        "https://www.instagram.com/rayodebarcelona/?hl=es",
+        "https://twitter.com/RayodeBarcelona",
+        "https://www.tiktok.com/@rayodebarcelona"
+      ]
+    }
+  },
+  {
+    "victories": 3,
+    "defeats": 5,
+    "goalsScored": 17,
+    "goalConceded": 23,
+    "cardsYellow": -6,
+    "cardsRed": null,
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
+      "url": "",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
+        "teamId": 0
+      },
+      "coach": "Victor González",
+      "players": [],
+      "channel": "https://www.youtube.com/xbuyer",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ]
+    }
+  },
+  {
     "victories": 0,
-    "defeats": 7,
-    "goalsScored": 14,
-    "goalConceded": 28,
-    "cardsYellow": -14,
+    "defeats": 8,
+    "goalsScored": 16,
+    "goalConceded": 32,
+    "cardsYellow": -16,
     "cardsRed": null,
     "team": {
       "id": "jijantes-fc",
