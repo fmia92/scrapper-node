@@ -1,31 +1,5 @@
 [
   {
-    "victories": 7,
-    "defeats": 4,
-    "goalsScored": 21,
-    "goalConceded": 18,
-    "cardsYellow": 3,
-    "cardsRed": null,
-    "team": {
-      "id": "saiyans-fc/",
-      "name": "Saiyans FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
-      "url": "",
-      "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
-        "teamId": 0
-      },
-      "coach": "Daniel Romo",
-      "players": [],
-      "channel": "https://www.twitch.tv/thegrefg",
-      "socialNetworks": [
-        "https://www.twitch.tv/thegrefg"
-      ]
-    }
-  },
-  {
     "victories": 8,
     "defeats": 3,
     "goalsScored": 34,
@@ -81,6 +55,55 @@
   {
     "victories": 7,
     "defeats": 4,
+    "goalsScored": 40,
+    "goalConceded": 34,
+    "cardsYellow": 6,
+    "cardsRed": null,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "coach": "Pol Font",
+      "players": [],
+      "channel": "https://www.twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    }
+  },
+  {
+    "victories": 7,
+    "defeats": 4,
+    "goalsScored": 21,
+    "goalConceded": 18,
+    "cardsYellow": 3,
+    "cardsRed": null,
+    "team": {
+      "id": "saiyans-fc/",
+      "name": "Saiyans FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
+      "url": "",
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
+        "teamId": 0
+      },
+      "coach": "Daniel Romo",
+      "players": [],
+      "channel": "https://www.twitch.tv/thegrefg",
+      "socialNetworks": [
+        "https://www.twitch.tv/thegrefg"
+      ]
+    }
+  },
+  {
+    "victories": 7,
+    "defeats": 4,
     "goalsScored": 23,
     "goalConceded": 22,
     "cardsYellow": 1,
@@ -101,6 +124,58 @@
       "channel": "https://www.twitch.tv/slakun10",
       "socialNetworks": [
         "https://www.twitch.tv/slakun10"
+      ]
+    }
+  },
+  {
+    "victories": 6,
+    "defeats": 5,
+    "goalsScored": 25,
+    "goalConceded": 25,
+    "cardsYellow": 0,
+    "cardsRed": null,
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
+      "url": "",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
+        "teamId": 0
+      },
+      "coach": "Victor González",
+      "players": [],
+      "channel": "https://www.youtube.com/xbuyer",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ]
+    }
+  },
+  {
+    "victories": 6,
+    "defeats": 5,
+    "goalsScored": 29,
+    "goalConceded": 30,
+    "cardsYellow": -1,
+    "cardsRed": null,
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/aniquiladores.svg",
+      "url": "",
+      "president": {
+        "id": "juan-guarnizo",
+        "name": "Juan Guarnizo",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JUAN-GUARNIZO-ANIQUILADORES-FC.png",
+        "teamId": 0
+      },
+      "coach": "Sergio Verdirame",
+      "players": [],
+      "channel": "https://www.twitch.tv/juansguarnizo",
+      "socialNetworks": [
+        "https://www.twitch.tv/juansguarnizo"
       ]
     }
   },
@@ -128,55 +203,6 @@
       "socialNetworks": [
         "https://www.tiktok.com/@adricontreras4",
         "https://www.instagram.com/elbarrioklk/?hl=es"
-      ]
-    }
-  },
-  {
-    "victories": 7,
-    "defeats": 4,
-    "goalsScored": 40,
-    "goalConceded": 34,
-    "cardsYellow": 6,
-    "cardsRed": null,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "coach": "Pol Font",
-      "players": [],
-      "channel": "https://www.twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ]
-    }
-  },
-  {
-    "victories": 6,
-    "defeats": 5,
-    "goalsScored": 25,
-    "goalConceded": 25,
-    "cardsYellow": 0,
-    "cardsRed": null,
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/xbuyer-team.svg",
-      "url": "",
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/BUYER-TEAM-xbuyer.png",
-        "teamId": 0
-      },
-      "coach": "Victor González",
-      "players": [],
-      "channel": "https://www.youtube.com/xbuyer",
-      "socialNetworks": [
-        "https://www.youtube.com/xbuyer"
       ]
     }
   },
@@ -210,37 +236,11 @@
     }
   },
   {
-    "victories": 5,
-    "defeats": 6,
-    "goalsScored": 24,
-    "goalConceded": 28,
-    "cardsYellow": -4,
-    "cardsRed": null,
-    "team": {
-      "id": "aniquiladores-fc",
-      "name": "Aniquiladores FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/aniquiladores.svg",
-      "url": "",
-      "president": {
-        "id": "juan-guarnizo",
-        "name": "Juan Guarnizo",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/JUAN-GUARNIZO-ANIQUILADORES-FC.png",
-        "teamId": 0
-      },
-      "coach": "Sergio Verdirame",
-      "players": [],
-      "channel": "https://www.twitch.tv/juansguarnizo",
-      "socialNetworks": [
-        "https://www.twitch.tv/juansguarnizo"
-      ]
-    }
-  },
-  {
     "victories": 4,
     "defeats": 7,
-    "goalsScored": 25,
-    "goalConceded": 24,
-    "cardsYellow": 1,
+    "goalsScored": 27,
+    "goalConceded": 29,
+    "cardsYellow": -2,
     "cardsRed": null,
     "team": {
       "id": "pio-fc",
