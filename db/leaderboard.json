@@ -1,10 +1,36 @@
 [
   {
     "victories": 7,
+    "defeats": 4,
+    "goalsScored": 21,
+    "goalConceded": 18,
+    "cardsYellow": 3,
+    "cardsRed": null,
+    "team": {
+      "id": "saiyans-fc/",
+      "name": "Saiyans FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
+      "url": "",
+      "president": {
+        "id": "thegrefg",
+        "name": "TheGrefg",
+        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
+        "teamId": 0
+      },
+      "coach": "Daniel Romo",
+      "players": [],
+      "channel": "https://www.twitch.tv/thegrefg",
+      "socialNetworks": [
+        "https://www.twitch.tv/thegrefg"
+      ]
+    }
+  },
+  {
+    "victories": 8,
     "defeats": 3,
-    "goalsScored": 31,
-    "goalConceded": 25,
-    "cardsYellow": 6,
+    "goalsScored": 34,
+    "goalConceded": 27,
+    "cardsYellow": 7,
     "cardsRed": null,
     "team": {
       "id": "ultimate-mostoles",
@@ -27,36 +53,10 @@
   },
   {
     "victories": 7,
-    "defeats": 3,
-    "goalsScored": 20,
-    "goalConceded": 16,
-    "cardsYellow": 4,
-    "cardsRed": null,
-    "team": {
-      "id": "saiyans-fc/",
-      "name": "Saiyans FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/saiyans-fc.svg",
-      "url": "",
-      "president": {
-        "id": "thegrefg",
-        "name": "TheGrefg",
-        "image": "https://scrapper-js.fmia.workers.dev/static/presidents/THEGREFG-SAIYANS-FC.png",
-        "teamId": 0
-      },
-      "coach": "Daniel Romo",
-      "players": [],
-      "channel": "https://www.twitch.tv/thegrefg",
-      "socialNetworks": [
-        "https://www.twitch.tv/thegrefg"
-      ]
-    }
-  },
-  {
-    "victories": 6,
     "defeats": 4,
-    "goalsScored": 32,
-    "goalConceded": 23,
-    "cardsYellow": 9,
+    "goalsScored": 37,
+    "goalConceded": 26,
+    "cardsYellow": 11,
     "cardsRed": null,
     "team": {
       "id": "porcinos-fc",
@@ -79,34 +79,11 @@
     }
   },
   {
-    "victories": 6,
+    "victories": 7,
     "defeats": 4,
-    "goalsScored": 35,
-    "goalConceded": 33,
-    "cardsYellow": 2,
-    "cardsRed": null,
-    "team": {
-      "id": "los-troncos-fc",
-      "name": "Los Troncos FC",
-      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
-      "url": "",
-      "coach": "Pol Font",
-      "players": [],
-      "channel": "https://www.twitch.tv/perxitaa",
-      "socialNetworks": [
-        "https://www.twitch.tv/perxitaa",
-        "https://www.instagram.com/troncosfc.oficial/",
-        "https://twitter.com/lostroncosfc_/",
-        "https://www.tiktok.com/@lostroncosfc_"
-      ]
-    }
-  },
-  {
-    "victories": 6,
-    "defeats": 4,
-    "goalsScored": 19,
-    "goalConceded": 21,
-    "cardsYellow": -2,
+    "goalsScored": 23,
+    "goalConceded": 22,
+    "cardsYellow": 1,
     "cardsRed": null,
     "team": {
       "id": "kunisports",
@@ -129,10 +106,10 @@
   },
   {
     "victories": 5,
-    "defeats": 5,
-    "goalsScored": 30,
-    "goalConceded": 20,
-    "cardsYellow": 10,
+    "defeats": 6,
+    "goalsScored": 33,
+    "goalConceded": 25,
+    "cardsYellow": 8,
     "cardsRed": null,
     "team": {
       "id": "el-barrio",
@@ -155,11 +132,34 @@
     }
   },
   {
-    "victories": 5,
+    "victories": 7,
+    "defeats": 4,
+    "goalsScored": 40,
+    "goalConceded": 34,
+    "cardsYellow": 6,
+    "cardsRed": null,
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "https://scrapper-js.fmia.workers.dev/static/logos/los-troncos.png",
+      "url": "",
+      "coach": "Pol Font",
+      "players": [],
+      "channel": "https://www.twitch.tv/perxitaa",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    }
+  },
+  {
+    "victories": 6,
     "defeats": 5,
-    "goalsScored": 23,
-    "goalConceded": 24,
-    "cardsYellow": -1,
+    "goalsScored": 25,
+    "goalConceded": 25,
+    "cardsYellow": 0,
     "cardsRed": null,
     "team": {
       "id": "xbuyer-team",
@@ -182,10 +182,10 @@
   },
   {
     "victories": 5,
-    "defeats": 5,
-    "goalsScored": 30,
-    "goalConceded": 31,
-    "cardsYellow": -1,
+    "defeats": 6,
+    "goalsScored": 32,
+    "goalConceded": 34,
+    "cardsYellow": -2,
     "cardsRed": null,
     "team": {
       "id": "1k",
@@ -211,7 +211,7 @@
   },
   {
     "victories": 5,
-    "defeats": 5,
+    "defeats": 6,
     "goalsScored": 24,
     "goalConceded": 28,
     "cardsYellow": -4,
@@ -237,7 +237,7 @@
   },
   {
     "victories": 4,
-    "defeats": 6,
+    "defeats": 7,
     "goalsScored": 25,
     "goalConceded": 24,
     "cardsYellow": 1,
@@ -264,10 +264,10 @@
   },
   {
     "victories": 3,
-    "defeats": 7,
-    "goalsScored": 26,
-    "goalConceded": 36,
-    "cardsYellow": -10,
+    "defeats": 8,
+    "goalsScored": 27,
+    "goalConceded": 40,
+    "cardsYellow": -13,
     "cardsRed": null,
     "team": {
       "id": "rayo-barcelona",
@@ -293,10 +293,10 @@
   },
   {
     "victories": 1,
-    "defeats": 9,
-    "goalsScored": 22,
-    "goalConceded": 36,
-    "cardsYellow": -14,
+    "defeats": 10,
+    "goalsScored": 23,
+    "goalConceded": 41,
+    "cardsYellow": -18,
     "cardsRed": null,
     "team": {
       "id": "jijantes-fc",
